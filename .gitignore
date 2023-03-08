@@ -2,3 +2,5 @@
 *.nes
 *.nes*
 .DS_Store
+
+.vscode
