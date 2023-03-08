@@ -94,7 +94,7 @@ hello:
   .byte $6c, $00, $00, $6c
   .byte $6c, $01, $00, $76
   .byte $6c, $02, $00, $80
-  .byte $6c, $02, $00, $8A
+  .byte $6c, $02, $00, $8C
   .byte $6c, $03, $00, $94
 
 palettes:
